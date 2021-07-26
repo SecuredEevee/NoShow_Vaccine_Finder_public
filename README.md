@@ -1,1 +1,1 @@
-# NoShow_Vaccine_Finder_public
+# v0.6.0
